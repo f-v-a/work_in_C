@@ -1,0 +1,15 @@
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.csprojAssemblyReference.cache
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.Properties.Resources.resources
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\ДЗ\Новая папка\client\client\bin\Debug\client.exe.config
+E:\ДЗ\Новая папка\client\client\bin\Debug\client.exe
+E:\ДЗ\Новая папка\client\client\bin\Debug\client.pdb
+E:\ДЗ\Новая папка\client\client\bin\Debug\server.exe
+E:\ДЗ\Новая папка\client\client\bin\Debug\server.pdb
+E:\ДЗ\Новая папка\client\client\bin\Debug\server.exe.config
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.csproj.CopyComplete
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.exe
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.pdb
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.Form1.resources
+E:\ДЗ\Новая папка\client\client\obj\Debug\client.frmAdd.resources

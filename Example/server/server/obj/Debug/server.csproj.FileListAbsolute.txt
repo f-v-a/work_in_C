@@ -1,0 +1,9 @@
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.Properties.Resources.resources
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\ДЗ\Новая папка\server\server\bin\Debug\server.exe.config
+E:\ДЗ\Новая папка\server\server\bin\Debug\server.exe
+E:\ДЗ\Новая папка\server\server\bin\Debug\server.pdb
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.exe
+E:\ДЗ\Новая папка\server\server\obj\Debug\server.pdb
