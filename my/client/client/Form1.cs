@@ -32,10 +32,9 @@ namespace client
                 newItem.SubItems.Add(tovar.getName());
                 newItem.SubItems.Add(tovar.getIngredients());
                 newItem.SubItems.Add(tovar.getSroki().ToString());
-                newItem.SubItems.Add(tovar.getIngredients());
                 newItem.SubItems.Add(tovar.getPrice().ToString());
                 newItem.SubItems.Add(tovar.getQuantity().ToString());
-                newItem.SubItems.Add(tovar.getRecept());
+                newItem.SubItems.Add(tovar.getRecept().ToString());
                 newItem.SubItems.Add((tovar.getQuantity() * tovar.getPrice()).ToString());
                 i++;
             }

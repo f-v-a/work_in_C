@@ -37,13 +37,30 @@
             this.btnDel = new System.Windows.Forms.ToolStripMenuItem();
             this.btnUpdate = new System.Windows.Forms.ToolStripMenuItem();
             this.btnExit = new System.Windows.Forms.ToolStripMenuItem();
+            this.columnHeader = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lvList
             // 
+            this.lvList.Activation = System.Windows.Forms.ItemActivation.OneClick;
+            this.lvList.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader,
+            this.columnHeader1,
+            this.columnHeader2,
+            this.columnHeader3,
+            this.columnHeader4,
+            this.columnHeader5,
+            this.columnHeader6});
             this.lvList.GridLines = true;
             this.lvList.HideSelection = false;
+            this.lvList.HoverSelection = true;
             this.lvList.Location = new System.Drawing.Point(12, 27);
             this.lvList.Name = "lvList";
             this.lvList.Size = new System.Drawing.Size(731, 246);
@@ -117,6 +134,40 @@
             this.btnExit.Text = "Выход";
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // columnHeader
+            // 
+            this.columnHeader.Text = "№";
+            this.columnHeader.Width = 84;
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Название";
+            this.columnHeader1.Width = 85;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Ингридиенты";
+            this.columnHeader2.Width = 91;
+            // 
+            // columnHeader3
+            // 
+            this.columnHeader3.Text = "Срок годности";
+            this.columnHeader3.Width = 96;
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "Цена";
+            this.columnHeader4.Width = 56;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "Количество";
+            this.columnHeader5.Width = 84;
+            // 
+            // columnHeader6
+            // 
+            this.columnHeader6.Text = "Рецепт";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -148,5 +199,12 @@
         private System.Windows.Forms.ToolStripMenuItem btnDel;
         private System.Windows.Forms.ToolStripMenuItem btnUpdate;
         private System.Windows.Forms.ToolStripMenuItem btnExit;
+        private System.Windows.Forms.ColumnHeader columnHeader;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.ColumnHeader columnHeader6;
     }
 }

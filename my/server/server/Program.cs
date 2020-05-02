@@ -26,6 +26,7 @@ namespace server
             //lstTovar – объект, который необходимо передать, "TalkIsGood" - параметр, который //используется клиентом для активизации объекта (унифицированный идентификатор ресурса)
             Console.WriteLine("Press enter to stop this process.");
             Console.ReadLine();
+
         }
     }
 
